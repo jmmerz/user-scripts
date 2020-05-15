@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Stash - Page Title Enhancements
-// @namespace    https://github.com/jmmerz/user-scripts
 // @version      1.0
 // @description  Change the string "Pull Request" to PR in Stash page titles to make more of the relevant title visible and add the repo name.
+// @namespace    https://github.com/jmmerz/user-scripts
 // @author       jmmerz
 // @include      https://*stash*/*/pull-requests/*
 // @grant        none

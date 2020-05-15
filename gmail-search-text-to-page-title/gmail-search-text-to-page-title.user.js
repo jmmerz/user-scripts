@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         GMail - Search Text to Page Title
-// @namespace    https://github.com/jmmerz/user-scripts
 // @version      1.1
 // @description  Add the text of a search to GMail page title to make browser history more useful
+// @namespace    https://github.com/jmmerz/user-scripts
 // @author       jmmerz
 // @match        https://mail.google.com/mail/u/*
 // @grant        none
