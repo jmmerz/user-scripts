@@ -20,3 +20,10 @@ This script adds the contents of the search field to the page title so that it w
 Useful for software development. When visiting a URL from `localhost`, this appends `[LOCALHOST]` to the page title to make it more obvious.
 
 ----
+
+## [Stash Page Title Enhancements](stash-page-title-enhancements)
+On Stash (BitBucket Server) pages:
+* Add the repo name to the page title
+* Change the string `"Pull Request"` to `"PR"` to make the most interesting parts of the title more visible.
+
+----
