@@ -21,9 +21,15 @@ Useful for software development. When visiting a URL from `localhost`, this appe
 
 ----
 
-## [Stash Page Title Enhancements](stash-page-title-enhancements)
-On Stash (BitBucket Server) pages:
+## [Stash - Page Title Enhancements](stash-page-title-enhancements)
+On Stash (BitBucket Server) pull request pages:
 * Add the repo name to the page title
 * Change the string `"Pull Request"` to `"PR"` to make the most interesting parts of the title more visible.
 
 ----
+
+## [Stash - Add Comment Links](stash-add-comment-links)
+On Stash (BitBucket Server) pull request pages, find all comments left on the pull request, and add a link directly to the comment in their footer.
+
+----
+
