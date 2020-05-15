@@ -16,3 +16,7 @@ This script adds the contents of the search field to the page title so that it w
 
 ----
 
+## [Flag Localhost Page Titles](flag-localhost-page-titles)
+Useful for software development. When visiting a URL from `localhost`, this appends `[LOCALHOST]` to the page title to make it more obvious.
+
+----
